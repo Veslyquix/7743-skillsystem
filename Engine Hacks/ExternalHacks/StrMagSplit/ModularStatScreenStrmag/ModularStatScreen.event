@@ -16,7 +16,7 @@
   #define Trv_Icon_Y 0x2E
   
   #include "Display Growths Options/Display Growths Options.txt"
-  #include "../mss_leftstatscreen/mss_leftstatscreen.event"
+  #include "MSS/mss_leftstatscreen/mss_leftstatscreen.event"
  
   PUSH
     #ifdef ENABLE_PERSONAL_INFO
