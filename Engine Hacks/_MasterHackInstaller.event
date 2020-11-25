@@ -85,7 +85,7 @@ POP
   #include "ExternalHacks/DragonVeins/DragonVeins.event"
   
 //Proper Range Getters	
-  #include "ExternalHacks/ProperRangeGetters/ProperRangeGetters/ProperRangeGetters.event"
+//  #include "ExternalHacks/ProperRangeGetters/ProperRangeGetters/ProperRangeGetters.event"
 
   // If uncommented, Leadership Stars will be implemented.
   // Go to LeadershipStars/LeadershipStars.event to edit settings.

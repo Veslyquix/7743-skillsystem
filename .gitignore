@@ -14,6 +14,11 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+Event Assembler/
+Tables/
+Text/
+Tools/
+
 # Windows shortcuts
 *.lnk
 
